@@ -1,0 +1,13 @@
+LOTE 2 - Hospital Universitario UANL
+B4_arco_archivo_H ................ Acceso al Atlas (horizontal)
+B5_arco_laboratorio_V / _H ....... Acceso al Laboratorio
+B6_arco_entrenamiento_V / _H ..... Acceso a Entrenamiento
+B7_paciente_del_dia_V / _H ....... Vitrina "Paciente del dia"
+B8_reloj ......................... Reloj del lobby (transparente)
+C1_elevador_cerrado_V / _H ....... Puertas del elevador cerradas
+C2_elevador_abriendo_V / _H ...... Puertas abriendose
+C3_elevador_interior_V / _H ...... Cabina
+C4_panel_botones ................. Panel de 6 botones (transparente)
+C5_indicador_piso ................ Indicador de piso (transparente)
+C6_vista_piso_V / _H ............. Vista al abrirse el elevador
+D1_pasillo_urgencias_V / _H ...... Pasillo piso 1 Urgencias
