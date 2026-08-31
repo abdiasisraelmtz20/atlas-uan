@@ -1,0 +1,16 @@
+HOSPITAL UNIVERSITARIO UANL - Imagenes del recorrido (lote 1, 20 archivos)
+Formato WebP. Sube la carpeta completa tal cual, sin renombrar.
+
+A1_fachada_V / A1_fachada_H .............. Pantalla de inicio
+A2_puertas_cerradas_V / _H ............... Animacion de entrada (frame 1)
+A3_puertas_abiertas_V / _H ............... Animacion de entrada (frame 2)
+A4_recepcion_V / _H ...................... Registro del nombre del alumno
+A5_impresion_gafete_V .................... Micro-animacion del gafete
+A6_placa_bronce .......................... Placa del hospital (fondo transparente)
+A7_gafete ................................ Gafete del alumno (fondo transparente)
+B1_lobby_H ............................... Lobby principal (version elegida)
+B1_lobby_V_alterno ....................... Lobby vertical, diseno distinto; pendiente regenerar
+B2_directorio_V / _H ..................... Fondo de los 4 accesos
+B3_arco_hospital_V / _H .................. Acceso al ala de hospitalizacion
+B4_arco_archivo_V ........................ Acceso al Atlas / Archivo clinico
+D_pasillo_V_borrador / _H_borrador ....... Pasillo provisional; pendiente regenerar (noche, puertas, enfermeria)
