@@ -1,0 +1,15 @@
+LOTE 3 - Hospital Universitario UANL
+Habitaciones y elementos del expediente. Sube todo sin renombrar.
+
+E2_Habitacion_Hematologia_V/H ......... Habitaciones 201-204
+E3_Habitacion_Pediatrica_Vertical ..... Pacientes pediatricos (falta version Horizontal)
+E4_Sala_Neonatal_V/H .................. Habitacion 303 (OI tipo II)
+E5_Sala_Reanimacion_V/H ............... Piso 1 Urgencias
+E6_Habitacion_Medicina_Interna_V/H .... Habitacion 501 (escorbuto)
+E7_Consultorio_Dermatologia_V/H ....... Habitacion 601 (pelagra)
+E8_Consultorio_Genetica_V/H ........... Habitaciones 301-304
+E9_Hoja_Expediente .................... Textura de la hoja de ingreso
+E10_Monitor_Signos .................... Monitor para los signos vitales
+E11_Pulsera_Paciente .................. Pulsera de identificacion
+E12_Sello_Caso_Cerrado ................ Sello al cerrar el caso
+F1a_Piel_V/H .......................... Primer cuadro del zoom piel > molecula
