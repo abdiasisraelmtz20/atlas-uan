@@ -1,5 +1,5 @@
-St. Peter Memorial Hospital · Unidad de Medicina Reproductiva y Embriología
-Imágenes individuales generadas en la conversación. Collages excluidos.
-Formato: WebP, calidad 82, lado largo máximo 1600 px.
-Cuando hubo varias versiones de una misma escena se conservaron como _v01, _v02, etc.
-Total de imágenes: 59
+EMBRIO · St. Peter Memorial Hospital
+Imágenes faltantes respecto al ZIP anterior
+Incluye: E37–E53 y E57–E68 (29 imágenes individuales)
+Excluidos: E54–E56 y E69 porque ya estaban incluidos en el ZIP anterior; collages y generaciones erróneas también fueron excluidos.
+Formato: WebP · calidad 82 · máximo 1600 px en el lado largo.
